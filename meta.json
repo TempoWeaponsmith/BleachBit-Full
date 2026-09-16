@@ -1,0 +1,23 @@
+{
+  "repo": "bleachbit-full",
+  "product": "BleachBit Full",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "cleaner",
+  "topics": [
+    "bleachbit-portable",
+    "temp-clean-rules",
+    "browser-cache-desk",
+    "bleachbit-windows",
+    "deep-clean-2026",
+    "how-to-install-bleachbit",
+    "bleachbit-desktop-package",
+    "preview-delete-suite",
+    "usb-clean-run",
+    "bleachbit-pro-suite"
+  ],
+  "site": "toolix.me"
+}
